@@ -1,7 +1,7 @@
 ---
 layout: "docs"
 page_title: "Vault Agent Auto-Auth Kerberos Method"
-sidebar_title: "Kubernetes"
+sidebar_title: "Kerberos"
 sidebar_current: "docs-agent-autoauth-methods-kerberos"
 description: |-
   Kerberos Method for Vault Agent Auto-Auth
